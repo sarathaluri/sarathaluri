@@ -1,7 +1,7 @@
 ### Hi there  👋
 ## MY NAME IS ALURI SARATH CHANDRA
 
-- 🔭 I’m currently pursuing on 2/4 b.tech in VR SIDDHARTHA ENGINEERING COLLEGE
+- 🔭 I’m currently pursuing on 4/4 b.tech in VR SIDDHARTHA ENGINEERING COLLEGE
 
 - 🌱 I’m currently learning ... PYTHON
 - 👯 I’m looking to collaborate on ... GOOGLE
