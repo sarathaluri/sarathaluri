@@ -54,8 +54,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: a.sarath4546@gmail.com  
-- 💼 LinkedIn: (Add your link)  
+- 📧 Email: a.sarath4546@gmail.com   
 
 ---
 
