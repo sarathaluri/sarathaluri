@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sarath Chandra Aluri
 
 🚀 Cybersecurity Enthusiast | SOC Analyst Aspirant  
+⚔️ Built SIEM, Port Scanner, and Threat Detection Tools  
 💻 Python Developer | Network Security Learner  
 
 ---
