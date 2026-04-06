@@ -54,7 +54,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: sarathchandra.aluri@gmail.com  
+- 📧 Email: a.sarath4546@gmail.com  
 - 💼 LinkedIn: (Add your link)  
 
 ---
