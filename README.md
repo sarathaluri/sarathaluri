@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Sarath Chandra Aluri
 
-🚀 Cybersecurity Enthusiast | SOC Analyst Aspirant  
-⚔️ Built SIEM, Port Scanner, and Threat Detection Tools  
+🛡️ Cybersecurity Enthusiast | SOC Analyst Aspirant  
+⚔️ Built Real-World Security Tools (SIEM • Splunk • Port Scanner)  
 💻 Python Developer | Network Security Learner  
 
 ---
 
 ## 🧠 About Me
-- Passionate about cybersecurity, threat detection, and SOC operations  
-- Built real-world security tools including SIEM system and port scanner  
-- Strong interest in incident response and security monitoring  
+- Passionate about **cybersecurity, threat detection, and SOC operations**  
+- Hands-on experience building **SIEM systems, Splunk dashboards, and network tools**  
+- Strong interest in **incident response, log analysis, and security monitoring**  
+- Focused on developing **real-world, job-ready cybersecurity projects**  
 
 ---
 
@@ -20,13 +21,15 @@
 - Threat Detection  
 - Incident Response  
 - Log Analysis  
+- Alert Triage  
 
 ### 🌐 Networking
 - TCP/IP  
 - OSI Model  
 - DNS, HTTP/HTTPS  
 
-### 💻 Tools & Tech
+### 💻 Tools & Technologies
+- Splunk  
 - Wireshark  
 - Linux  
 - Python  
@@ -35,17 +38,35 @@
 
 ## 🚀 Projects
 
+### 🛡️ SOC Log Analysis & Alert Triage (Splunk) ⭐
+- Simulated real-world SOC operations using Splunk  
+- Developed SPL queries to detect:
+  - Brute-force attacks  
+  - Account compromise scenarios  
+  - Suspicious login activity  
+- Built an interactive dashboard with **6 detection panels**  
+- Implemented alert triage with severity classification (**Critical, High, Medium**)  
+
+---
+
 ### 🛡️ Mini SIEM System
-- Built a SIEM system with event correlation and timeline analysis  
+- Built a SIEM system with **event correlation and timeline analysis**  
 - Detects brute-force attacks and account compromise scenarios  
+- Generates structured alerts with severity-based classification  
+
+---
 
 ### ⚔️ Advanced Port Scanner
-- Multi-threaded port scanner with service detection and banner grabbing  
-- Performs network reconnaissance and service identification  
+- Developed a **multi-threaded port scanner with CLI support**  
+- Implemented service detection and banner grabbing  
+- Performed network reconnaissance and service fingerprinting  
+
+---
 
 ### 🔐 Log Analyzer
-- Detects suspicious login activity and brute-force attacks  
-- Generates severity-based alerts  
+- Built a Python-based tool for detecting brute-force attacks  
+- Classified alerts into severity levels (Critical, High, Medium)  
+- Simulated SOC monitoring workflows  
 
 ---
 
@@ -55,13 +76,14 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: a.sarath4546@gmail.com   
+- 📧 Email: a.sarath4546@gmail.com  
 
 ---
 
 ## 🎯 Career Goal
-To work as a Cybersecurity Analyst where I can apply my skills in threat detection, log analysis, and security monitoring to protect systems and data.
+To work as a **Cybersecurity Analyst (SOC)** where I can apply my skills in  
+threat detection, log analysis, and security monitoring to protect systems and data.
 
 ---
 
-⭐ Always learning. Always improving.
+⭐ Building real cybersecurity skills, not just projects.
